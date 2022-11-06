@@ -2,9 +2,9 @@ public class MainApplication {
 
     public static void main(String[] args) {
 
-        lv2_1차_캐시 sol = new lv2_1차_캐시();
+        lv2_HIndex sol = new lv2_HIndex();
 
-        int answer = sol.solution(2, new String[]{"Jeju", "Pangyo", "NewYork", "newyork"});
+        int answer = sol.solution(new int[]{4, 4, 4});
 
         System.out.println("answer = " + answer);
     }
