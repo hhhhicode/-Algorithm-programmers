@@ -1,8 +1,5 @@
-import java.util.ArrayList;
-import java.util.List;
-
 //https://school.programmers.co.kr/learn/courses/30/lessons/12980
-public class 점프와순간이동 {
+public class lv2_점프와순간이동 {
     public int solution(int n) {
         int ans = getCount(n);
 

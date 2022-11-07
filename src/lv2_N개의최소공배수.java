@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class N개의최소공배수 {
+public class lv2_N개의최소공배수 {
     public int solution(int[] arr) {
         int answer = 1;
         Map<Integer, Integer> totalSosuMul = new HashMap<>();

@@ -1,8 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Map;
 
-public class 예상대진표 {
+public class lv2_예상대진표 {
     public int solution(int n, int a, int b)
     {
         int answer = 0;
