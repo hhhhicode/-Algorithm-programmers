@@ -2,13 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce423fd8-40fd-4ec2-ac7d-fab0e1210c6e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CodeingTest/lv2/lv2_k진수에서소수개수구하기.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lv2/lv2_k진수에서소수개수구하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeingTest/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeingTest/MainApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeingTest/lv2/lv2_타겟넘버.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeingTest/lv2/lv2_타겟넘버.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeingTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_x만큼간격이있는n개의숫자.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_나누어떨어지는숫자배열.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_나머지가1이되는수찾기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_두정수사이의합.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_문자열내p와y의개수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_문자열을정수로바꾸기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_서울에서김서방찾기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_약수의합.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_없는숫자더하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_음양더하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_자릿수더하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_자연수뒤집어배열로만들기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_정수내림차순으로배치하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_정수제곱근판별.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_제일작은수제거하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_짝수와홀수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_콜라츠추측.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_평균구하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_하샤드수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv1/lv1_핸드폰번호가리기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_1차_뉴스클러스터링.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_1차_캐시.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_HIndex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_N개의최소공배수.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_k진수에서소수개수구하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_n의2제곱배열자르기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_괄호회전하기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_기능개발.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_멀리뛰기.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_예상대진표.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_위장.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_전화번호목록.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_점프와순간이동.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_타겟넘버.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_튜플.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_프린터.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lv2/lv2_행렬의곱셈.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +133,7 @@
       <workItem from="1667631356320" duration="27370000" />
       <workItem from="1667720866090" duration="35498000" />
       <workItem from="1667805726234" duration="11711000" />
-      <workItem from="1667894442104" duration="31302000" />
+      <workItem from="1667894442104" duration="31674000" />
     </task>
     <servers />
   </component>
