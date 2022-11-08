@@ -1,3 +1,5 @@
+package lv2;
+
 import java.util.ArrayDeque;
 import java.util.Queue;
 

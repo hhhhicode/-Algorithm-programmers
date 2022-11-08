@@ -1,3 +1,5 @@
+package lv2;
+
 import java.util.*;
 
 public class lv2_N개의최소공배수 {

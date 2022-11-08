@@ -1,3 +1,5 @@
+package lv2;
+
 import java.util.Arrays;
 import java.util.stream.Collectors;
 

@@ -1,3 +1,5 @@
+package lv2;
+
 //https://school.programmers.co.kr/learn/courses/30/lessons/12980
 public class lv2_점프와순간이동 {
     public int solution(int n) {

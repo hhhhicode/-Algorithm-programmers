@@ -1,3 +1,5 @@
+import lv2.lv2_전화번호목록;
+
 public class MainApplication {
 
     public static void main(String[] args) {
